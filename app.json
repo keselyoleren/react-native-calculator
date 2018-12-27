@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "calculator",
+  
+   "version": "1.0.0",
+   "slug": "calculator",
+   "sdkVersion": "31.0.0",
+   "ios": {
+     "bundleIdentifier": "com.keselyoleren"
+   },
+   "android": {
+     "package": "com.kesel.yoleren"
+   }
+  }
+}
